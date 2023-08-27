@@ -1,3 +1,3 @@
 # Diwali_Sales_Analysis
 
-Python project - Analyse Diwali sales data to improve customer experience and sales
+Python project - Analysed Diwali sales data to improve customer experience and sales
